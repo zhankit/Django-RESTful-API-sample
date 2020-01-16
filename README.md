@@ -5,5 +5,4 @@ This is a sample APT for the user module
 python manage.py runserver
 
 # User credential
-username : zhankit
-password : 12345678
+username : zhankit, password : 12345678
